@@ -13,13 +13,6 @@ Twitter: https://twitter.com/IgniteSparkplug
 # Get-ScriptRunTime Initialize
 $ST = Get-Date
 
-# Signature
-Function Set-Signature
-{
-    Write-Host "]3 /\ ~|~ |\/| /\ |\|" -ForegroundColor Yellow
-    Write-Host  "/? () _\~ |-| /\ |\|" -ForegroundColor Yellow
-}
-
 #Create folder for Output and move PS default location
 $path = "C:\PSScripts" #Change the path as per requirement
 If(!(test-path $path))

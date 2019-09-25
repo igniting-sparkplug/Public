@@ -5,7 +5,6 @@ Version: v1.0
 Author: Roshan N.
 GitHub: https://github.com/roshannair7/
 LinkedIn: https://www.linkedin.com/in/roshannair7/
-Twitter: https://twitter.com/IgniteSparkplug
 
 #>
 
